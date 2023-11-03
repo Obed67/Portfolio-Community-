@@ -1,0 +1,188 @@
+/* GENERAL */
+body
+{
+    font-family: Poppins;
+    border-radius: 40px;
+    background: var(--Light-Yellow, #FBF8CC);
+    
+}
+.heading{
+    color: var(--Dark-Blue, #03045E);
+    font-style: normal;
+}
+#about,#work,#contact{
+    font-family: Poppins;
+    font-style: normal;
+    color: var(--Dark-Blue, #03045E);
+}
+
+/* MENU */
+
+#home,#work,#about{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+}
+.navbar .navbar-collapse
+{
+    text-align: center;
+}
+.navbar
+{
+    background: #FBF8CC;
+    font-size: 12px;
+    letter-spacing: 4px;
+    color: var(--Dark-Blue, #03045E);
+}
+.navbar .navbar-nav
+{
+    display: inline-block;
+    float: none; 
+}
+
+/* HEADER */
+
+.heading h3{
+    margin-top: 20%;
+}
+.heading h1{
+    font-size: 90px;
+    font-weight: 800;
+    line-height: 116px;
+}
+.heading h3{
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.heading h4{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: normal;
+}
+.heading #button1{
+    border: none;
+}
+.heading #design1{
+    margin-left: 60%;
+}
+.heading #design2{
+    margin-left: 10%;
+    
+}
+
+/* ABOUT */
+
+#about h1{
+    color: var(--Too-Light-Yellow, #F7F197);
+    font-size: 100px;
+    font-weight: 800;
+    line-height: 116px;
+}
+#about h3{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 40px;
+}
+#about p{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 44px;
+}
+#about #sous-about2{
+    margin-left: 20%; 
+}
+
+/* WORK */
+
+#work h1{
+    color: var(--Too-Light-Yellow, #F7F197);
+    font-size: 100px;
+    font-weight: 800;
+    line-height: 116px;
+}
+#work p{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 44px;
+}
+#work #text{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+}
+#work h6{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 44px; 
+}
+#work h2{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 44px;
+}
+/*
+#work #sous-work1{
+    display: flex;
+}
+#autre{
+   margin: 80px;
+   margin-top: 0;
+}*/
+
+/* CONTACT */
+
+#contact{
+    padding-bottom: 50%;
+}
+#contact h1{
+    color: var(--Too-Light-Yellow, #F7F197);
+    font-size: 100px;
+    font-weight: 800;
+    line-height: 116px;
+}
+#sous-contact{
+    padding-top: 11%;
+}
+#contact p,a{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 44px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
